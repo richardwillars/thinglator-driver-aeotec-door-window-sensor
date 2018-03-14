@@ -14,6 +14,7 @@ Allows the Thinglator platform to Aeotec Door / Window sensors on your zwave net
 Navigate to the root of your Thinglator installation and run:
 
 > yarn add thinglator-driver-aeotec-door-window-sensor
+
 > yarn dev
 
 # Installation for development
@@ -21,6 +22,7 @@ Navigate to the root of your Thinglator installation and run:
 Navigate to the root of the thinglator-driver-aeotec-door-window-sensor project and run:
 
 > yarn install
+
 > yarn link
 
 Navigate to the root of your Thinglator installation and run:

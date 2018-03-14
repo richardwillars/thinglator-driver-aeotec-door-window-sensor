@@ -3,7 +3,7 @@
   "license": "MIT",
   "description":
     "Allows the Thinglator platform to talk to Aeotec door / window sensors",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "maintainers": [
     {
       "name": "Richard Willars",
